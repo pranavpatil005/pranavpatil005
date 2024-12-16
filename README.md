@@ -48,18 +48,35 @@ I'm a passionate **Graphic Designer**, **UX/UI Designer**, and **Frontend Develo
 </td></tr></table>
 
 ---
+<!--
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/pranavpatil005?label=Follow%20Me&style=social)](https://github.com/pranavpatil005)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Pranav%20Patil-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pranavpatil1705/)
 
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
+ -->
 
 
 ## 📊 GitHub Stats
 <table><tr><td valign="top" width="50%">
-  ![](https://github-readme-stats.vercel.app/api?username=pranavpatil005&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=pranavpatil005&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+
 </td><td valign="top" width="50%">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil005&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil005&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 </td></tr></table>
+<br />
 
 ---
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranavpatil005&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🏆 Achievements
