@@ -67,7 +67,7 @@ I'm a passionate **Graphic Designer**, **UX/UI Designer**, and **Frontend Develo
 
 ---
 
- <img style="margin: 10px" src="img.png"/>
+ <img style="margin: 10px" src="download.jpg"/>
 
 
 ---
